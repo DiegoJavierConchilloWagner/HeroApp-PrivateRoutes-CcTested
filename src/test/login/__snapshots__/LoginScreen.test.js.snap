@@ -1,0 +1,240 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en LoginScreen Debe de mosrar el componente correctamente 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="forms-container"
+  >
+    <div
+      className="signin-signup"
+    >
+      <form
+        action="#"
+        className="sign-in-form"
+      >
+        <h2
+          className="title"
+        >
+          Sign in
+        </h2>
+        <div
+          className="input-field"
+        >
+          <i
+            className="fas fa-user"
+          />
+          <input
+            placeholder="Username"
+            type="text"
+          />
+        </div>
+        <div
+          className="input-field"
+        >
+          <i
+            className="fas fa-lock"
+          />
+          <input
+            autoComplete="true"
+            placeholder="Password"
+            type="password"
+          />
+        </div>
+        <input
+          className="btn solid"
+          defaultValue="Login"
+          onClick={[Function]}
+          type="submit"
+        />
+        <p
+          className="social-text"
+        >
+          Or Sign in with social platforms
+        </p>
+        <div
+          className="social-media"
+        >
+          <a
+            className="social-icon"
+            href="#?"
+          >
+            <i
+              className="fab fa-facebook-f"
+            />
+          </a>
+          <a
+            className="social-icon"
+            href="#?"
+          >
+            <i
+              className="fab fa-twitter"
+            />
+          </a>
+          <a
+            className="social-icon"
+            href="#?"
+          >
+            <i
+              className="fab fa-google"
+            />
+          </a>
+          <a
+            className="social-icon"
+            href="#?"
+          >
+            <i
+              className="fab fa-linkedin-in"
+            />
+          </a>
+        </div>
+      </form>
+      <form
+        action="#"
+        className="sign-up-form"
+      >
+        <h2
+          className="title"
+        >
+          Sign up
+        </h2>
+        <div
+          className="input-field"
+        >
+          <i
+            className="fas fa-user"
+          />
+          <input
+            placeholder="Username"
+            type="text"
+          />
+        </div>
+        <div
+          className="input-field"
+        >
+          <i
+            className="fas fa-envelope"
+          />
+          <input
+            placeholder="Email"
+            type="email"
+          />
+        </div>
+        <div
+          className="input-field"
+        >
+          <i
+            className="fas fa-lock"
+          />
+          <input
+            autoComplete="true"
+            placeholder="Password"
+            type="password"
+          />
+        </div>
+        <input
+          className="btn"
+          defaultValue="Sign up"
+          type="submit"
+        />
+        <p
+          className="social-text"
+        >
+          Or Sign up with social platforms
+        </p>
+        <div
+          className="social-media"
+        >
+          <a
+            className="social-icon"
+            href="#?"
+          >
+            <i
+              className="fab fa-facebook-f"
+            />
+          </a>
+          <a
+            className="social-icon"
+            href="#?"
+          >
+            <i
+              className="fab fa-twitter"
+            />
+          </a>
+          <a
+            className="social-icon"
+            href="#?"
+          >
+            <i
+              className="fab fa-google"
+            />
+          </a>
+          <a
+            className="social-icon"
+            href="#?"
+          >
+            <i
+              className="fab fa-linkedin-in"
+            />
+          </a>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div
+    className="panels-container"
+  >
+    <div
+      className="panel left-panel"
+    >
+      <div
+        className="content"
+      >
+        <h3>
+          New here ?
+        </h3>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis, ex ratione. Aliquid!
+        </p>
+        <button
+          className="btn transparent"
+          onClick={[Function]}
+        >
+          Sign up
+        </button>
+      </div>
+      <img
+        alt=""
+        className="image"
+        src="img/log.svg"
+      />
+    </div>
+    <div
+      className="panel right-panel"
+    >
+      <div
+        className="content"
+      >
+        <h3>
+          One of us ?
+        </h3>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum laboriosam ad deleniti.
+        </p>
+        <button
+          className="btn transparent"
+          onClick={[Function]}
+        >
+          Sign in
+        </button>
+      </div>
+      <img
+        alt=""
+        className="image"
+        src="img/register.svg"
+      />
+    </div>
+  </div>
+</div>
+`;
